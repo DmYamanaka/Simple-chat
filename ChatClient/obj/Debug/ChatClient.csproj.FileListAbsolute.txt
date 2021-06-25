@@ -1,0 +1,15 @@
+D:\Для проектов\wcf_chat\ChatClient\bin\Debug\ChatClient.exe.config
+D:\Для проектов\wcf_chat\ChatClient\bin\Debug\ChatClient.exe
+D:\Для проектов\wcf_chat\ChatClient\bin\Debug\ChatClient.pdb
+D:\Для проектов\wcf_chat\ChatClient\obj\Debug\ChatClient.csprojAssemblyReference.cache
+D:\Для проектов\wcf_chat\ChatClient\obj\Debug\MainWindow.g.cs
+D:\Для проектов\wcf_chat\ChatClient\obj\Debug\App.g.cs
+D:\Для проектов\wcf_chat\ChatClient\obj\Debug\ChatClient_MarkupCompile.cache
+D:\Для проектов\wcf_chat\ChatClient\obj\Debug\ChatClient_MarkupCompile.lref
+D:\Для проектов\wcf_chat\ChatClient\obj\Debug\MainWindow.baml
+D:\Для проектов\wcf_chat\ChatClient\obj\Debug\ChatClient.g.resources
+D:\Для проектов\wcf_chat\ChatClient\obj\Debug\ChatClient.Properties.Resources.resources
+D:\Для проектов\wcf_chat\ChatClient\obj\Debug\ChatClient.csproj.GenerateResource.cache
+D:\Для проектов\wcf_chat\ChatClient\obj\Debug\ChatClient.csproj.CoreCompileInputs.cache
+D:\Для проектов\wcf_chat\ChatClient\obj\Debug\ChatClient.exe
+D:\Для проектов\wcf_chat\ChatClient\obj\Debug\ChatClient.pdb
